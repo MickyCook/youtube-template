@@ -7,17 +7,6 @@
  */
 ?>
 <?php get_header(); ?>
-<!-- here are some leathermilk youtube urls for styling:
-
-https://www.youtube.com/watch?v=Mc8fJBcrFuI
-https://www.youtube.com/watch?v=iqsnFM0jUD4
-https://www.youtube.com/watch?v=76IR0zkKpzw
-https://www.youtube.com/watch?v=9QBbBZl6zyI
-
-just create media page, select media template, and add urls in repeater.
--->
-
-<!-- Active Video -->
 <div class="container-bg">
 	<div class="page-container-bg">
     	<div class="container">
